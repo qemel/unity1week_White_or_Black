@@ -2,6 +2,8 @@
 
 u1wにて作成したゲームwhite-or-blackのソースコードです。
 
+https://unityroom.com/games/worb
+
 ## 使用ライブラリ
 
 |ライブラリ名|概要|
